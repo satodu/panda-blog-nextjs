@@ -1,6 +1,6 @@
 # Panda Blog NextJS
 
-![Panda Blog](https://dkrn4sk0rn31v.cloudfront.net/uploads/2019/04/23151507/TRUQUES-NPM.png)
+![React Logo](https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg)
 
 Um blog simples desenvolvido em Next.js para explorar funcionalidades básicas de rotas, componentes e APIs. 
 
@@ -84,4 +84,5 @@ O Panda Blog NextJS é um projeto educativo que implementa um blog básico utili
 
 ## 📄 Licença
 
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes
+Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+
