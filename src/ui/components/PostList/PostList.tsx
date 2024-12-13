@@ -1,6 +1,7 @@
 import { BlogPost } from "@/data/@types/BlogPostInterface";
 import styles from './PostList.module.css';
 import Link from "next/link";
+import { Open_Sans } from "next/font/google";
 
 export default function PostList({ posts }: { posts: BlogPost[] }) {
   return (

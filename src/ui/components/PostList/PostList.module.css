@@ -5,6 +5,8 @@
   list-style-type: none;
   margin: 16px auto;
   max-width: 1024px;
+  font-family: "Open Sans", Arial, sans-serif;
+
 }
 
 .postListItem {
@@ -13,6 +15,7 @@
   color: var(--text-secondary);
   box-shadow: 0 1px 3px var(--shadow);
   border-radius: 4px;
+  font-family: "Open Sans", Arial, sans-serif;
 }
 
 @media (max-width: 700px) {
@@ -34,4 +37,5 @@
   color: var(--text-primary);
   margin-bottom: 5px;
   font-size: 20px;
+  font-family: "Exo", Arial, sans-serif;
 }

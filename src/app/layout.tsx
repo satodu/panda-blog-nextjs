@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import { Inter } from "next/font/google";
 import "./globals.css";
 import styles from "./page.module.css";
+import Link from "next/link";
 
 
 const inter = Inter({ subsets: ["latin"] });
@@ -20,10 +21,12 @@ export default function RootLayout({
     <html lang="en">
       <body className={inter.className}>
         <header>
-          <h1 className={styles.title}>
-            Panda 
-            <span className={styles.titleSecondWord}> Blog</span>
-          </h1>
+          <Link href={'/'}>
+            <h1 className={styles.title}>
+              Panda 
+              <span className={styles.titleSecondWord}> Blog</span>
+            </h1>
+          </Link>
         </header>
         {children}
       </body>

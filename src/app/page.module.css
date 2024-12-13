@@ -4,6 +4,8 @@
   box-shadow: 0 3px 0 var(--shadow);
   padding: 16px;
   margin-top: 0;
+  font-family: "Exo";
+  font-weight: 600;
 }
 
 .titleSecondWord {
